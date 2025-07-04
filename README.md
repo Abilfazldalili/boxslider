@@ -2,7 +2,7 @@
 html,css
 
 
-[Online Demo](https://boxslider/slider1/index.html/)
+[Online Demo](https://Abilfazldalili.github.io/boxslider/)
 
 
 
