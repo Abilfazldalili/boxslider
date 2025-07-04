@@ -2,7 +2,7 @@
 html,css
 
 
-[Online Demo]([https://](https://github.com/Abilfazldalili/boxslider/))
+[Online Demo](https://github.com/Abilfazldalili/boxslider/)
 
 
 
