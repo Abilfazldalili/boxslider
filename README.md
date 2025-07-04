@@ -2,7 +2,7 @@
 html,css
 
 
-[Online Demo](http://localhost/sliderr1/)
+[Online Demo Apachi Xampp](http://localhost/sliderr1/)
 
 
 
