@@ -1,6 +1,11 @@
 # boxslider
 html,css
-[Online Demo](https://slider1/index.html/)
+
+
+[Online Demo](https://boxslider/slider1/index.html/)
+
+
+
 <img src="./slider1/img/screen1.png">
 
 
